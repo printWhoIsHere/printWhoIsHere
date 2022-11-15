@@ -54,20 +54,18 @@
 <details>
 <summary>General Stats</summary>
 <div>
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/printWhoIsHere/github-readme-streak-stats">
-      <img title="🔥 printWhoIsHere's streak" src="https://streak-stats.demolab.com?user=printWhoIsHere&theme=soft-green)](https://git.io/streak-stats" />
+<!-- Readme Streak Stats -->
+<p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="printWhoIsHere's streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=soft-green&hide_border=true"/>
     </a>
   </p>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
+<!-- Readme Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-		<img alt="printWhoIshere's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=printWhoIsHere&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+		<img alt="printWhoIshere's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=printWhoIsHere&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=06D62F&icon_color=06D62F" height="192px"/>
 	</a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-		<img alt="printWhoIshere's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=printWhoIsHere&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+		<img alt="printWhoIshere's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=printWhoIsHere&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=06D62F&icon_color=06D62F&hide=Jupyter%20Notebook" height="192px"/>
 	</a>
 
   <br/>
