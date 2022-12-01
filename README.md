@@ -3,7 +3,7 @@
 		<a style="color: #06D62F" href="https://github.com/printWhoIsHere/"><u><i>Alexey</i></u></a>
 	</h1>
 </div>
-
+ 
 <div align="center">
 	<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
     <a href="https://git.io/typing-svg">
